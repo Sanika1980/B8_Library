@@ -1,0 +1,3 @@
+name,qty,price,author,is_published,is_active
+Book1,567,900,ACBC,TRUE,TRUE
+Book70,432,666,fgrt,FALSE,TRUE

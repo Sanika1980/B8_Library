@@ -1,0 +1,6 @@
+name,qty,price,author,is_published,is_active
+Book101,444,789,tyui,TRUE,TRUE
+Book102,321,888,fghj,TRUE,FALSE
+Book103,432,567,PQR,FALSE,TRUE
+Book104,678,999,ABCD,TRUE,TRUE
+Book105,456,888,sss,TRUE,TRUE
